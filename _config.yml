@@ -1,3 +1,19 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 title: Chandra's homepage 2.0
 description: Bookmark this to keep an eye on my project updates! 3.0
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Blog"
+    url: "/blog"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Contact"
+    url: "/contact"
+social:
+  - title: "GitHub"
+    url: "https://github.com/chandrasuda"
+  - title: "LinkedIn"
+    url: "https://linkedin.com/in/chandrasuda"
